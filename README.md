@@ -13,8 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Author](#author)
  
 
-
-
 ### The challenge
 
 Users should be able to:
@@ -26,7 +24,6 @@ Users should be able to:
 
 ![](./images/Schermata%202024-01-21%20alle%2019.01.54.png)
 ![](./images/Schermata%202024-01-21%20alle%2019.10.18.png)
-
 
 
 ### Links
@@ -43,10 +40,6 @@ I used CSS flexbox and media querie for the mobile display.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-
-
-```
 
 
 ## Author
